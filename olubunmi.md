@@ -1,4 +1,4 @@
-##Olubunmi Adekanmbi is my name
+## Olubunmi Adekanmbi ##
 
 ** Favorite DevOps tool  - Kubernetes
 
